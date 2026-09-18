@@ -40,7 +40,7 @@ Product & Architecture
 
 ## Author: Patrick Diamitani
 
-GTM AI & Automation Manager at Atlas HXM. Builds agent skills and automation systems for sales, marketing, and revenue operations teams.
+GTM AI & Automation Manager at Enterprise Platform. Builds agent skills and automation systems for sales, marketing, and revenue operations teams.
 
 ---
 
