@@ -1,3 +1,9 @@
+---
+name: soul-builder
+description: >
+  Universal AI Agent Skill: Define and inject agent personality, values, and behavior constraints — give your AI agent a soul Use this skill when working with soul builder tasks or workflows.
+---
+
 # Soul-Builder.skill
 
 **Purpose:** Define agent personality, values, behavior constraints, and response templates—then inject into running agents.
